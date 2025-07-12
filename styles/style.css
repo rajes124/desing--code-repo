@@ -1,0 +1,150 @@
+
+.raleway-design {
+    
+  font-family: "Raleway", sans-serif;
+ 
+  font-weight: bold;
+  font-size: 65px;
+  font-style: normal;
+  margin: 309px 267px 252px; ;
+  text-align: center;
+  
+}
+
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 40px;
+}
+.text-pri{
+    color: #4E47FF ;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+}
+.btn-primary{
+    background-color:#4E47FF ;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 12px 36px;
+    border-radius: 12px;
+    cursor: pointer;
+    
+    
+}
+
+
+.section {
+
+   align-items:center;     
+ height: 150px;
+  margin: 100px 633px;
+  
+}
+.header{
+    background-image: url('../images/Hero-bg.png');
+}
+
+.hero-container img{
+    border-radius: 48px;
+}
+
+.hero-container{
+display: flex;
+
+padding: 25px;
+align-items: center;
+gap: 220px;
+border-radius: 45px;
+color: 252432; 
+}
+body{
+    min-width: 1400px;
+    background-color: #FFFFFF;
+    scroll-margin-right: 143px;
+}
+.hero-container button{
+    background-color: #4E47FF;
+    padding: 12px 36px;
+    border-radius: 10px;
+    font-weight: bold;
+font-size: 16px;
+color: #FFFFFF;
+cursor: pointer;
+
+}
+
+.bold{
+    font-weight: bold;
+font-size: 42;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.fucos{
+    display: flex;
+    margin: 141px 140px;
+}
+
+
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.joined{
+    background-color:  #e0e7ff;
+border-radius: 24px;
+padding: 52px 140px;
+text-align: center;
+gap: 40px;
+
+}
+
+.rubi{
+    font-weight: bold;
+font-size: 38px; 
+
+}
+
+.stats {
+  display: flex;
+  justify-content: space-evenly;
+  background: #e0e7ff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.stat-box h2 {
+  font-size: 2rem;
+  color: #4f46e5;
+  font-weight: bold;
+font-size: 80px;
+
+}
+.color-low{
+    color: rgb(120, 120, 120);
+    font-size: 20px;
+    padding: 40px;
+}
